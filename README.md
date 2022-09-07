@@ -32,9 +32,9 @@
 
 <!-- OVERVIEW -->
 
-## Overview
+<!-- ## Overview -->
 
-![](https://github.com/ldev28/404-not-found-page/blob/main/page.PNG)
+<!-- ![](https://github.com/ldev28/404-not-found-page/blob/main/page.PNG) -->
 
 
 <!-- Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
