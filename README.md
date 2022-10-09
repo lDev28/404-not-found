@@ -45,10 +45,10 @@
 - Your wisdom? :)
 -->
 
-### Used stack technologies
+<!-- ### Used stack technologies
 
 - html
-- css
+- css -->
 <!-- - scss -->
 
 <!-- ## Features
