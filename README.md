@@ -22,13 +22,13 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contents
+<!-- ## Table of Contents
 
 - [Overview](#overview)
    - [Used stack technologies](#used-stack-technologies)
 - [Features](#features)
 - [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
+- [Contact](#contact) -->
 
 <!-- OVERVIEW -->
 
